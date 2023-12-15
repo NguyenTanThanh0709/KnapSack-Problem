@@ -1,0 +1,7 @@
+Capacity    26
+Name    Weight  Value
+Mobile_Phone    12   24
+Television  7 13
+Ipad    11   23
+LapTop  8 15
+xscds   9   16

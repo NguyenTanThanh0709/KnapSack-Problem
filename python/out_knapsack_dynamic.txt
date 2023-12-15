@@ -1,0 +1,16 @@
+Capacity: 463
+ynamic Programming 01:
+Best Value: 731
+Best Combination:
+Name: item1, Weight: 25, Value: 52, Selected Quantity: 1
+Name: item1, Weight: 59, Value: 95, Selected Quantity: 1
+Name: item1, Weight: 44, Value: 66, Selected Quantity: 1
+Name: item1, Weight: 85, Value: 84, Selected Quantity: 1
+Name: item1, Weight: 7, Value: 55, Selected Quantity: 1
+Name: item1, Weight: 39, Value: 16, Selected Quantity: 1
+Name: item1, Weight: 3, Value: 93, Selected Quantity: 1
+Name: item1, Weight: 52, Value: 59, Selected Quantity: 1
+Name: item1, Weight: 45, Value: 61, Selected Quantity: 1
+Name: item1, Weight: 12, Value: 53, Selected Quantity: 1
+Name: item1, Weight: 88, Value: 97, Selected Quantity: 1
+TimeOut: 0.008721299993339926

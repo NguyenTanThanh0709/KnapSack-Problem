@@ -1,0 +1,16 @@
+Capacity: 463
+reedy With Fractional KnapSack Problem:
+Best Value: 759.1411764705882
+Best Combination:
+Name: item1, Weight: 3, Value: 93, Selected Quantity: 1
+Name: item1, Weight: 7, Value: 55, Selected Quantity: 1
+Name: item1, Weight: 12, Value: 53, Selected Quantity: 1
+Name: item1, Weight: 25, Value: 52, Selected Quantity: 1
+Name: item1, Weight: 59, Value: 95, Selected Quantity: 1
+Name: item1, Weight: 44, Value: 66, Selected Quantity: 1
+Name: item1, Weight: 45, Value: 61, Selected Quantity: 1
+Name: item1, Weight: 52, Value: 59, Selected Quantity: 1
+Name: item1, Weight: 88, Value: 97, Selected Quantity: 1
+Name: item1, Weight: 55, Value: 56, Selected Quantity: 1
+Name: item1, Weight: 85, Value: 84, Selected Quantity: 0.8588235294117647
+TimeOut: 0.0003470999945420772

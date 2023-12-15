@@ -1,0 +1,6 @@
+Capacity: 463
+ynamic Programming Unbounded:
+Best Value: 14322
+Best Combination:
+Name: item1, Weight: 3, Value: 93, Selected Quantity: 154
+TimeOut: 0.0035980999819003046

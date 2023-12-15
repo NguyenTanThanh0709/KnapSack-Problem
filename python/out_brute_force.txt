@@ -1,0 +1,35 @@
+Capacity: 463
+rute Force:
+Best Value: 731
+Best Combination:
+Name: item1, Weight: 88, Value: 97, Selected Quantity: 1
+Name: item1, Weight: 113, Value: 7, Selected Quantity: 0
+Name: item1, Weight: 116, Value: 78, Selected Quantity: 0
+Name: item1, Weight: 12, Value: 53, Selected Quantity: 1
+Name: item1, Weight: 148, Value: 46, Selected Quantity: 0
+Name: item1, Weight: 102, Value: 66, Selected Quantity: 0
+Name: item1, Weight: 45, Value: 61, Selected Quantity: 1
+Name: item1, Weight: 84, Value: 41, Selected Quantity: 0
+Name: item1, Weight: 52, Value: 59, Selected Quantity: 1
+Name: item1, Weight: 48, Value: 17, Selected Quantity: 0
+Name: item1, Weight: 149, Value: 91, Selected Quantity: 0
+Name: item1, Weight: 3, Value: 93, Selected Quantity: 1
+Name: item1, Weight: 39, Value: 16, Selected Quantity: 1
+Name: item1, Weight: 7, Value: 55, Selected Quantity: 1
+Name: item1, Weight: 144, Value: 54, Selected Quantity: 0
+Name: item1, Weight: 85, Value: 84, Selected Quantity: 1
+Name: item1, Weight: 44, Value: 66, Selected Quantity: 1
+Name: item1, Weight: 59, Value: 95, Selected Quantity: 1
+Name: item1, Weight: 100, Value: 15, Selected Quantity: 0
+Name: item1, Weight: 109, Value: 51, Selected Quantity: 0
+Name: item1, Weight: 85, Value: 3, Selected Quantity: 0
+Name: item1, Weight: 55, Value: 56, Selected Quantity: 0
+Name: item1, Weight: 107, Value: 58, Selected Quantity: 0
+Name: item1, Weight: 84, Value: 67, Selected Quantity: 0
+Name: item1, Weight: 94, Value: 31, Selected Quantity: 0
+Name: item1, Weight: 99, Value: 53, Selected Quantity: 0
+Name: item1, Weight: 102, Value: 74, Selected Quantity: 0
+Name: item1, Weight: 25, Value: 52, Selected Quantity: 1
+Name: item1, Weight: 142, Value: 68, Selected Quantity: 0
+Name: item1, Weight: 146, Value: 83, Selected Quantity: 0
+TimeOut: 2908.8793219999934
